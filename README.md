@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning the MERN stack
 - 📫 How to reach me: 
   - brad0swrizzy@gmail.com
-  - [My portfolio site](https://bradenwrightportfolio.gatsbyjs.io/)
+  - [My portfolio site](https://bradenwright.gatsbyjs.io/)
   - [My LinkedIn](https://www.linkedin.com/in/wright-braden/)
 
 <!---
