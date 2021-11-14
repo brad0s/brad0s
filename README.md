@@ -8,9 +8,11 @@
 
 ## About me
 
-Front end developing and making aesthetic, functional user interfaces is my passion. I received my B.S. in Computer Science at Brigham Young University - Hawaii 📚 and I enjoy working with javascript and react.
+Front end developing and making aesthetic, functional user interfaces is my passion. I received my B.S. in Computer Science at Brigham Young University - Hawaii 📚 and I enjoy working with javascript and react. I love cool animations and looking at what people have designed on dribbble. Sometimes I think about getting a masters in HCI
 
 I love learning and challenging myself and look forward to continuing my journey as a developer - you can [read some of my thoughts and experiences](https://brad0s.github.io/) on my blog.
+
+I love surfing, skateboarding and laying out on the beach 🏄‍♂️🏖
 
 <br/>
 
