@@ -1,6 +1,6 @@
  ![Profile views](https://gpvc.arturio.dev/brad0s) 
 
-<img src="https://github.com/brad0s/brad0s/blob/main/Screen%20Shot%202021-11-13%20at%201.03.06%20PM.png" alt="banner that says Braden Wright - front end developer">
+<img src="https://github.com/brad0s/brad0s/blob/main/Screen%20Shot%202021-11-13%20at%201.40.29%20PM.png" alt="banner that says Braden Wright - front end developer">
 
 💥[My portfolio site](https://bradenwright.gatsbyjs.io/)
 
