@@ -12,7 +12,7 @@ Front end developing and making aesthetic, functional user interfaces is my pass
 
 I love learning and challenging myself and look forward to continuing my journey as a developer - you can [read some of my thoughts and experiences](https://brad0s.github.io/) on my blog.
 
-I love surfing, skateboarding, soccer and laying out on the beach 🏄‍♂️🏖
+I love surfing, skateboarding, soccer and laying out on the beach 🏄‍♂️🏖⚽️
 
 <br/>
 
