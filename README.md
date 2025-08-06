@@ -1,45 +1,8 @@
- ![Profile views](https://gpvc.arturio.dev/brad0s) 
+
 
 <img src="https://github.com/brad0s/brad0s/blob/main/Screen%20Shot%202021-11-13%20at%201.40.29%20PM.png" alt="banner that says Braden Wright - front end developer">
 
 💥[My portfolio site](https://braden-wright.dev/)
-
-<br/>
-
-## About me
-
-Front end developing and making aesthetic, functional user interfaces is my passion. I received my B.S. in Computer Science at Brigham Young University - Hawaii 📚 and I enjoy working with javascript and react. I love cool animations and looking at what people have designed on dribbble. Sometimes I think about getting a masters in HCI
-
-I love learning and challenging myself and look forward to continuing my journey as a developer - you can [read some of my thoughts and experiences](https://brad0s.github.io/) on my blog.
-
-I love surfing, skateboarding, soccer and laying out on the beach 🏄‍♂️🏖⚽️
-
-<br/>
-
-## Languages and Tools
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gatsby.png" alt="Gatsby" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-</div>  
-
-<br/>
-
-## Github stats
-
-![brad0s's GitHub stats](https://github-readme-stats.vercel.app/api?username=brad0s&theme=dark&hide=stars,issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brad0s&layout=compact&theme=dark&hide=asp)
 
 <br/>
 
